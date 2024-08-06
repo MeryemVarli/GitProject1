@@ -3,8 +3,8 @@ public class project1GitHub {
 
 
         System.out.println("Project git");
-
-
+        System.out.println("something for new branch git");
+        System.out.println("same fornew baarnch");
 
 
 
