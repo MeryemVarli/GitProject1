@@ -12,6 +12,13 @@ public class project1GitHub {
         System.out.println("for jeff");
 
 
+        String name="meryem";
+        int age=20;
+
+        if (age>=20){
+            name="mrym";
+        }
+
 
 
 
